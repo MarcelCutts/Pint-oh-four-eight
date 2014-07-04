@@ -1,6 +1,5 @@
 Pint-oh-four-eight
 ==================
-
 An extremely rapidly developed (~30 minutes) alcohol-based derivative of 2048.
 
 The blocks form ever more appealing beverages ending at the correct form of a pint. This was developed while 2048 was recently released, and no 2048  generators had yet come into existence. 
