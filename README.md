@@ -10,4 +10,4 @@ Hosted on http://marcelcutts.com/pint
 
 
 ### Acknowledgements
-This game is of course based almost entirely on Gabriele Cirulli's [2048](http://gabrielecirulli.github.io/2048/), which itself was based on the game (Threes)[http://asherv.com/threes/]
+This game is of course based almost entirely on Gabriele Cirulli's [2048](http://gabrielecirulli.github.io/2048/), which itself was based on the game [Threes](http://asherv.com/threes/)
